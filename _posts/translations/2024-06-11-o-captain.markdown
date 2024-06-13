@@ -1,0 +1,63 @@
+---
+layout: post
+title: "תרגום הו רב חובל, O Captain של Walt Whitman"
+date:   2024-06-11 17:57:44 +0300
+categories: jekyll update
+permalink: "/o-captain/"
+---
+
+<div class="table-responsive">
+<table class="table text-center">
+  <tbody>
+    <tr>
+      <td>תרגום</td>
+      <td class="has-text-align-left" data-align="left">מקור</td>
+      <td>בית</td>
+    </tr>
+    <tr>
+      <td>הו רב חובל! רב החובל שלי! הטיול המפחיד שלנו נגמר,<br>הספינה עמדה בכל מכשול, האוצר שחיפשנו הושג,<br>הנמל קרוב, את הפעמונים אני שומע, האנשים כולם מריעים,<br>בזמן שעיניים עוקבות אחר הספינה היציבה, כלי שיט זועף ונועז;<br>אבל הו ליבי, ליבי! ליבי!<br>הו הטיפות האדומות המדממות,<br>היכן שעל הסיפון רב החובל שלי מונח,<br>נפול קר ומת.</td>
+      <td><bdo dir="ltr" lang="">O Captain! my Captain! our fearful trip is done,<br>The ship has weather’d every rack, the prize we sought is won,<br>The port is near, the bells I hear, the people all exulting,<br>While follow eyes the steady keel, the vessel grim and daring;<br>But O heart! heart! heart!<br>O the bleeding drops of red,<br>Where on the deck my Captain lies,<br>Fallen cold and dead.</bdo></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>הו רב חובל! רב החובל שלי! קום ושמע את הפעמונים;<br>קום <bdo dir="ltr" lang="">—</bdo> עבורך הדגל מונף <bdo dir="ltr" lang="">—</bdo> עבורך הביוגל (סוג חצוצרה) מזמר,<br>עבורך זרי הפרחים, מעוטרים בסרטים <bdo dir="ltr" lang="">—</bdo> עבורך החופים הומים קהל,<br>לך הם קוראים, המסה התנועתית, אליך פניהם נשואות;<br>הנה רב חובל! אב יקר!<br>הזרוע הזו מתחת לראשך!<br>זה בטח סוג של חלום שעל הסיפון,<br>נפלת קר ומת.</td>
+      <td><bdo dir="ltr" lang="">O Captain! my Captain! rise up and hear the bells;<br>Rise up—for you the flag is flung—for you the bugle trills,<br>For you bouquets and ribbon’d wreaths—for you the shores a-crowding,<br>For you they call, the swaying mass, their eager faces turning;<br>Here Captain! dear father!<br>This arm beneath your head!<br>It is some dream that on the deck,<br>You’ve fallen cold and dead.</bdo></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>רב החובל שלי לא עונה, שפתיו חיוורות וחסרות תנועה<br>אבי אינו מרגיש את ידי, אין לו דופק או רצון,<br>הספינה עוגנת בטוחה ויציבה, מסעה תם ונשלם,<br>מנדודים מלאי חשש הספינה המנצחת מגיעה עם שלל נזכה;<br>הריעו החופים, וצלצלו בפעמונים!<br>אבל אני, בהליכה קודרת,<br>פוסע במזח עליו רב החובל שלי מונח,<br>נפול קר ומת.</td>
+      <td>
+        <bdo dir="ltr" lang="">My Captain does not answer, his lips are pale and still<br>My father does not feel my arm, he has no pulse nor will,<br>The ship is anchor’d safe and sound, its voyage closed and done,<br>From fearful trip the victor ship comes in with object won;<br>Exult O shores, and ring O bells!<br>But I with mournful tread,<br>Walk the deck my Captain lies,<br>Fallen cold and dead.</bdo>
+      </td>
+      <td>3</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p>השיר O Captain נכתב על ידי המשורר האמריקאי וולט ויטמן בשנת 1865.</p>
+
+<p>ניתן להתרשם בשיר מההבדל הכמעט תהומי בין תחושות הסביבה לדובר.</p>
+
+<p>באופן אובייקטיבי, קהל רב מקבל את פני הספינה, שחזרה ממסע ארוך ורווי מכשולים, בהצלחה – היא מגיעה עם שלל רב. ההמון צוהל, מריע בביוגל (קרנון, בעברית), זרים מעוטרים וצהלות שמחה. על הספינה, המציאות קודרת – הקברניט שהוביל את הספינה מת.</p>
+
+<p>ייתכן והקהל עדיין אינו יודע מה עלה בגורל קברניטם, שהרי הדובר אומר לרב החובל כי לו הם מריעים, כלומר גם הם רוכשים לו הערכה וכבוד.</p>
+
+<h3>קינה לנשיא המנוח</h3>
+
+<p>ויטמן כתב את השיר כשיר קינה לנשיא ארה"ב אברהם לינקולן שמצא את מותו בהתנקשות. ויטמן, על אף שלא הכיר אותו באופן אישי, ראה בלינקולן דמות ראויה להערצה, ומכאן ניתן להבין את הדימוי שלו של רב חובל <bdo dir="ltr" lang="">–</bdo> קברניט.</p>
+
+
+<h3>מלחמת האזרחים בארה"ב כרקע לכתיבת השיר</h3>
+
+<p>מלחמת האזרחים שהתרחשה בשנים 1861-1865 וגבתה את חייהם של מאות אלפי אמריקאים היתה אירוע שטלטל את החברה האמריקנית.</p>
+
+<p>לינקולן, שהוביל את מדינות האיחוד (כנגד הקונפדרציה) במלחמת האזרחים, נתפס בעיני רבים, אז כמו היום, כאחד הנשיאים הטובים ביותר שהיו לארה"ב. דוגמה לכך ניתן לראות בהתייחסות לנאום גטיסברג שנשא בשנת 1863 במדינת פנסילבניה עת המלחמה היתה בשיאה.</p>
+
+<p>הנאום נחשב נאום מכונן בתולדות ארצות הברית. בשעת משבר של החברה, לינקולן הפציר בעם שהמטרה חשובה והאבידות לא היו לשווא.</p>
+
+<blockquote>
+  <p dir="ltr">... that we here highly resolve that these dead shall not have died in vain—that this nation, under God, shall have a new birth of freedom—and that government of the people, by the people, for the people, shall not perish from the earth.</p>
+  <p>שאנחנו כאן נחושים מאוד שהמתים האלו לא נפלו לשוא – שהאומה הזו, תחת האל, צריכה שתהיה לה לידה מחודשת של חופש – ושהממשלה הזו של האנשים, על ידי האנשים, עבור האנשים, לא תכלה מהעולם.</p>
+  <cite>אברהם לינקולן, קטע מתוך נאום גטיסברג (Gettysburg Address)</cite>
+</blockquote>
