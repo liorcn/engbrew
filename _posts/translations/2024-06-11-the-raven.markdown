@@ -1,92 +1,55 @@
 ---
 layout: post
-title:  "הזמן עתיד מושלם – Future Perfect – לימוד אנגלית"
+title: "העורב, אדגר אלן פו – תרגום לעברית"
 date:   2024-06-11 17:57:44 +0300
 categories: jekyll update
 permalink: "/the-raven/"
 ---
 
-<h2>שימושים בזמן עתיד מושלם</h2>
-
-<p>נשתמש בזמן עתיד מושלם כשנרצה לתאר פעולה שתושלם בעתיד, לפני נקודת זמן מסוימת.<br>נפתח בדוגמה, ובהמשך הפוסט נסביר את הזמן לעומק –</p>
-
-<div class="card">
-  <div class="card-body">
-    By the time you arrive home, I will have gone out of the country.
-  </div>
-</div>
-
-<p>הכוונה כאן היא, "בזמן שאתה תגיע לבית, אני כבר אהיה מחוץ למדינה". יש כאן שני חלקים, החלק שאנחנו מתייחסים אליו כנקודת הזמן – <em>By the time you arrive home</em> הוא בזמן <a href="/present-simple/" title="present simple">Present Simple</a> ואילו הפעולה שבעתיד תושלם לפניו בעתיד מושלם – <em>I will have gone</em>.</p>
-
-<p>הדיאגרמה הבאה ממחישה את ציר הזמן:</p>
-
-<img decoding="async" width="590" height="198" src="../assets/img/future_perfect_diagram.png" alt="">
-
-<p>למשל בדוגמה שלמעלה, החץ הירוק מסמל את ההגעה הביתה שתקרה בעתיד. החץ האדום מסמל את היציאה מהמדינה. וכל זה נאמר בנקודת הזמן שהחץ השחור מצביע עליה – ההווה. </p>
-
-<h2>תבנית</h2>
-
-<p>כאשר v3 מסמל את צורת past participle של הפועל,</p>
-
-<h3>משפטי חיוב</h3>
-
-<div class="card">
-  <div class="card-body">
-    subject + will have + v3
-  </div>
-</div>
-
-<h3>משפטי שלילה</h3>
-
-<div class="card">
-  <div class="card-body">
-    subject + will not have + v3
-  </div>
-</div>
-
-<h3>שאלות</h3>
-
-<div class="card">
-  <div class="card-body">
-    ?Will + subject + have + v3
-  </div>
-</div>
-
-<p>כדי לשלוט היטב בצורת v3 של פעלים בלתי רגילים, תוכלו להעזר באחד המקורות מדף המקורות בתפריט או להעזר בטבלה <a href="https://www.gingersoftware.com/content/grammar-rules/verbs/list-of-irregular-verbs" title="כאן ">כאן </a>בתור התחלה.</p>
-
-<h2>דוגמאות</h2>
+<p>השיר The Raven, של אדגר אלן פו (Edgar Allan Poe) הוא שיר אפל בחרוזים.</p>
+<p>אחד הדברים שמייחדים את השיר הזה הוא האוירה שנוצרת באמצעות החריזה והמשקל.</p>
+<p>בתרגום הזה, אין שמירה עליהם.</p>
+<p>כדאי לקרוא את <a href="https://benyehuda.org/read/655" title="התרגום של ז'בוטינסקי">התרגום של ז'בוטינסקי</a> שמובא בפרויקט בן יהודה, ובו הצליח לשמר מאפיינים רבים של השיר המקורי.</p>
 
 <div class="table-responsive">
-<table class="table text-center">
-  <tbody>
-    <tr>
-      <td></td>
-      <td>תרגום המשמעות*</td>
-      <td>דוגמה</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>עד יום שני הבא, הם כבר ידעו להשתמש בזמן עתיד מושלם בצורה מושלמת.</td>
-      <td>By next Monday, they will have known how to use the future perfect tense perfectly.</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>עד סוף השנה, הוא כבר יחסוך מספיק כסף כדי לקנות רכב חדש.</td>
-      <td>By the end of the year, he will have saved enough money to buy a new car.</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>האם היא תפרסם את הספר שלה עד הזמן שפסטיבל הספרים יתרחש?</td>
-      <td>Will she have published her book by the time the book festival takes place?</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-</div>
+<table class="table text-center"><tbody>
+<tr>
+<td>בית</td>
+<td>תרגום</td>
+<td>אנגלית</td>
+</tr>
+<tr>
+<td>1</td>
+<td>פעם בחצות עגום, בזמן שהרהרתי, חלש ויגע,<br>בספרים רבים עתיקים ומשונים של חכמה שנשכחה –<br>בזמן שנמנמתי, כמעט נרדם, לפתע הגיעה דפיקה, <br>כזו של אחד שנוקש בעדינות, נוקש בדלת חדרי.<br>"זה איזה אורח," מלמלתי, "דופק בדלת חדרי –<br>רק זה ולא יותר."</td>
+<td>
+<bdo dir="ltr" lang="">Once upon a midnight dreary, while I pondered, weak and weary,<br>Over many a quaint and curious volume of forgotten lore –<br>While I nodded, nearly napping, suddenly there </bdo><br><bdo dir="ltr" lang="">came a tapping,</bdo><br><bdo lang="" dir="ltr">As of some one gently rapping, rapping at my chamber door.<br></bdo><bdo dir="ltr" lang="">Tis some visitor," I muttered, tapping at my chamber door –<br>Only this and nothing more."</bdo>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>אה, היטב אני זוכר זה היה בדצמבר הצונן;<br>כל אוד ואוד גוסס, אל הרצפה שלח את דמותו.<br>בלהיטות ייחלתי למחר – לשווא חיפשתי לשאול<br>מן הספרים הפוגה לאבל – אבל על לנור האבודה –<br>על העלמה הנדירה והקורנת, אותה המלאכים מכנים לנור –<br>חסרת שם כאן לעד.</td>
+<td>
+<bdo dir="ltr" lang="">Ah, distinctly I remember it was in the bleak December;<br>And each separate dying ember wrought its ghost upon the floor.<br>Eagerly I wished the morrow –</bdo> <bdo dir="ltr" lang="">vainly I had sought to borrow<br>From my books surcease of sorrow –</bdo> <bdo dir="ltr" lang="">sorrow for the lost Lenore –<br>For the rare and radiant maiden whom the angels name Lenore –<br>Nameless here for evermore.</bdo>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>ורשרוש המשי, העצוב, אינו בטוח של כל וילון סגול<br>ריגש אותי <bdo dir="ltr" lang=""><code>—</code></bdo> מילא אותי בפחדים דמיוניים שמעולם לא הורגשו;<br>אז עכשיו, להרגיע את דפיקות ליבי, עמדתי חוזר<br>"זה רק איזה אורח מבקש להכנס בדלת חדרי –<br>איזה אורח מאחר שמבקש להכנס בדלת חדרי <bdo dir="ltr" lang="">–</bdo><br>זה רק זה ולא יותר."</td>
+<td>
+<bdo dir="ltr" lang="">And the silken, sad, uncertain rustling of each purple curtain<br>Thrilled me-filled me with fantastic terrors never felt before;<br>So that now, to still the beating of my heart, I stood repeating<br>"Tis some visitor entreating entrance at my chamber door </bdo><br><bdo dir="ltr" lang="">–</bdo><br><bdo dir="ltr" lang="">Some late visitor entreating entrance at my chamber door; –<br>This it is and nothing more.</bdo>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>ובאותו הרגע נפשי התחזקה; מהסס ואז כבר לא,<br>"אדון," אמרתי, "או גברת, באמת את מחילתכם אני דורש;<br>אבל האמת היא שאני נמנמתי, וכך עדין אתם נקשתם.<br>ובאופן כך חלוש אתם דפקתם, דפקתם בדלת חדרי.<br>כך שאני בקושי הייתי בטוח ששמעתי אתכם"</td>
+<td>
+<bdo dir="ltr" lang="">Presently my soul grew stronger; hesitating then no longer,<br>"Sir," said I, "or Madam, truly your forgiveness I implore;<br>But the fact is I was napping, and so gently you came rapping,<br>And so faintly you came tapping, tapping at my chamber door,<br>That I scarce was sure I heard you" –</bdo> <bdo dir="ltr" lang="">here I opened wide the door –<br>Darkness there and nothing more.</bdo>
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>עמוק אל תוך האפלה בוהה, זמן רב עמדתי שם<br>תוהה, פוחד,<br>מסתפק, חולם חלומות שאף בן-תמותה לא העז לחלום מעולם;<br>אבל
 
-<p>ייתכן ושמתם לב שהמילה by מככבת בזמן הזה, וניתן להעזר בה לפעמים כדי להדליק לנו נורה אפשרית לגבי הזמן עתיד מושלם. </p>
 
-<p>* התרגום הוא תרגום חופשי, ואין לראות בכל חלק בתרגום בעברית משמעות מדויקת של החלק אותו הוא מתרגם מאנגלית. למשל בדוגמה האחרונה נכתב "שפסטיבל הספרים יתרחש" בלשון עתיד, בעוד שבזמן עתיד מושלם במקור נכתב "takes place" (מתרחש/קורה) בזמן הווה פשוט, כמו שנאמר בתחילת הפוסט.</p>
+</tbody></table>
+<div>
