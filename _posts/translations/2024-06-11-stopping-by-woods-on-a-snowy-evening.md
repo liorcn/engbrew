@@ -6,7 +6,8 @@ categories: jekyll update
 permalink: "/stopping-by-woods-on-a-snowy-evening/"
 ---
 
-<table class="table text-center">
+<div class="table-responsive">
+<table class="table text-center table-dark">
   <tr>
     <td>בית</td>
     <td>מקור</td>
@@ -57,6 +58,7 @@ permalink: "/stopping-by-woods-on-a-snowy-evening/"
     And miles to go before I sleep</td>
   </tr>
 </table>
+</div>
 
 <h2>על היצירה</h2>
 

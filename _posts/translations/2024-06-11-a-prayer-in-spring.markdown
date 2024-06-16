@@ -9,7 +9,7 @@ permalink: "/a-prayer-in-spring/"
 <p>השיר 'תפילה באביב' של פרוסט לקוח מתוך האוסף הראשון אותו פרסם באופן מסחרי, A Boy's Will, בשנת 1913.</p>
 
 <div class="table-responsive">
-<table class="table text-center">
+<table class="table text-center table-dark">
 <tbody>
 <tr>
 <td>תרגום</td>

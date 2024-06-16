@@ -9,7 +9,7 @@ permalink: "/dover-beach/"
 <p>השיר 'חוף דובר' נכתב על ידי המשורר האנגלי <a href="https://www.poetryfoundation.org/poets/matthew-arnold" title="מת'יו ארנולד">מת&#8217;יו ארנולד</a> במאה ה-19.</p>
 
 <div class="table-responsive">
-<table class="table text-center">
+<table class="table text-center table-dark">
 <tbody>
 <tr>
 <td>תרגום</td>

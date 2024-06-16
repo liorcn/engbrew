@@ -9,7 +9,7 @@ permalink: "/a-farm-picture/"
 <p>שיר כפרי ציורי, קצר במיוחד, של המשורר האמריקאי וולט ויטמן.</p>
 
 <div class="table-responsive">
-<table class="table text-center">
+<table class="table text-center table-dark">
   <tbody>
     <tr>
       <td>תרגום</td>
