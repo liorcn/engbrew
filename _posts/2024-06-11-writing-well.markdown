@@ -150,7 +150,7 @@ permalink: "/writing-well/"
 
 <p class="eng-sen">He saw a woman accompanied by two children, walking slowly down the road.</p>
 
-<p>‘ביטויים השתתפותיים’ (לא מצאתי תרגום למושג הזה בעברית) שקודמים להם מילות חיבור או יחס, שמות עצם שסמוכים אחד לשני (apposition), שמות תואר, וביטויים שמשמשים לתיאור (adjective phrases) נכנסים תחת אותו הכלל, אם הם בתחילת המשפט.</p>
+<p>‘ביטויים השתתפותיים’ (לא מצאתי תרגום למושג הזה בעברית) קודמות להם מילות חיבור או יחס, שמות עצם שסמוכים אחד לשני (apposition), שמות תואר, וביטויים שמשמשים לתיאור (adjective phrases) נכנסים תחת אותו הכלל, אם הם בתחילת המשפט.</p>
 
 <table class="table text-center table-dark">
 <tbody>
