@@ -29,7 +29,8 @@ twitter_username:
 github_username:  liorcn
 
 # Google Analytics
-google_analytics: G-MFX802S6VY
+# google_analytics: G-MFX802S6VY
+# added a script in _includes/footer.html
 
 # Build settings
 
