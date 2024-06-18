@@ -6,87 +6,75 @@ categories: jekyll update
 permalink: "/trees/"
 ---
 
-<h2>שימושים בזמן עתיד מושלם</h2>
 
-<p>נשתמש בזמן עתיד מושלם כשנרצה לתאר פעולה שתושלם בעתיד, לפני נקודת זמן מסוימת.<br>נפתח בדוגמה, ובהמשך הפוסט נסביר את הזמן לעומק –</p>
+<p>השיר <em>עצים</em> של ג'ויס קילמר, הוא שיר שמשבח עצים.</p>
 
-<div class="card">
-  <div class="card-body">
-    By the time you arrive home, I will have gone out of the country.
-  </div>
-</div>
-
-<p>הכוונה כאן היא, "בזמן שאתה תגיע לבית, אני כבר אהיה מחוץ למדינה". יש כאן שני חלקים, החלק שאנחנו מתייחסים אליו כנקודת הזמן – <em>By the time you arrive home</em> הוא בזמן <a href="/present-simple/" title="present simple">Present Simple</a> ואילו הפעולה שבעתיד תושלם לפניו בעתיד מושלם – <em>I will have gone</em>.</p>
-
-<p>הדיאגרמה הבאה ממחישה את ציר הזמן:</p>
-
-<img decoding="async" width="590" height="198" src="../assets/img/future_perfect_diagram.png" alt="">
-
-<p>למשל בדוגמה שלמעלה, החץ הירוק מסמל את ההגעה הביתה שתקרה בעתיד. החץ האדום מסמל את היציאה מהמדינה. וכל זה נאמר בנקודת הזמן שהחץ השחור מצביע עליה – ההווה. </p>
-
-<h2>תבנית</h2>
-
-<p>כאשר v3 מסמל את צורת past participle של הפועל,</p>
-
-<h3>משפטי חיוב</h3>
-
-<div class="card">
-  <div class="card-body">
-    subject + will have + v3
-  </div>
-</div>
-
-<h3>משפטי שלילה</h3>
-
-<div class="card">
-  <div class="card-body">
-    subject + will not have + v3
-  </div>
-</div>
-
-<h3>שאלות</h3>
-
-<div class="card">
-  <div class="card-body">
-    ?Will + subject + have + v3
-  </div>
-</div>
-
-<p>כדי לשלוט היטב בצורת v3 של פעלים בלתי רגילים, תוכלו להעזר באחד המקורות מדף המקורות בתפריט או להעזר בטבלה <a href="https://www.gingersoftware.com/content/grammar-rules/verbs/list-of-irregular-verbs" title="כאן ">כאן </a>בתור התחלה.</p>
-
-<h2>דוגמאות</h2>
-
-<div class="table-responsive">
-<table class="table text-center">
+<table class="table text-center table-dark">
   <tbody>
     <tr>
-      <td></td>
-      <td>תרגום המשמעות*</td>
-      <td>דוגמה</td>
-      <td></td>
+      <td>תרגום</td>
+      <td>מקור</td>
+      <td>בית</td>
     </tr>
     <tr>
-      <td></td>
-      <td>עד יום שני הבא, הם כבר ידעו להשתמש בזמן עתיד מושלם בצורה מושלמת.</td>
-      <td>By next Monday, they will have known how to use the future perfect tense perfectly.</td>
-      <td></td>
+      <td>אני חושב שאני לעולם לא אראה<br>שיר נפלא כמו עץ.</td>
+      <td>
+        <bdo dir="ltr" lang="">
+          I think that I shall never see<br>
+          A poem lovely as a tree.
+        </bdo>
+      </td>
+      <td>1</td>
     </tr>
     <tr>
-      <td></td>
-      <td>עד סוף השנה, הוא כבר יחסוך מספיק כסף כדי לקנות רכב חדש.</td>
-      <td>By the end of the year, he will have saved enough money to buy a new car.</td>
-      <td></td>
+      <td>עץ אשר פיו הרעב דבוק<br>אל השד המתוק והזורם של הארץ;</td>
+      <td>
+        <bdo dir="ltr" lang="">
+          A tree whose hungry mouth is prest<br>
+          Against the earth's sweet flowing breast;
+        </bdo>
+      </td>
+      <td>2</td>
     </tr>
     <tr>
-      <td></td>
-      <td>האם היא תפרסם את הספר שלה עד הזמן שפסטיבל הספרים יתרחש?</td>
-      <td>Will she have published her book by the time the book festival takes place?</td>
-      <td></td>
+      <td>עץ אשר מסתכל לאלוהים כל היום,<br>ומרים את ידי העלה שלו לתפילה;</td>
+      <td>
+        <bdo dir="ltr" lang="">
+          A tree that looks at God all day,<br>
+          And lifts her leafy arms to pray;
+        </bdo>
+      </td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>עץ אשר בקיץ יכול ללבוש<br>קן של אדומי החזה בשערו;</td>
+      <td>
+        <bdo dir="ltr" lang="">
+          A tree that may in Summer wear<br>
+          A nest of robins in her hair;
+        </bdo>
+      </td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>זה שבחיקו שלג נשכב;<br>זה שחי בקרבה עם גשם.</td>
+      <td>
+        <bdo dir="ltr" lang="">
+          Upon whose bosom snow has lain;<br>
+          Who intimately lives with rain.
+        </bdo>
+      </td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>שירים נכתבים על ידי לצים כמותי,<br>אך רק האל יכול ליצור עץ.</td>
+      <td>
+        <bdo dir="ltr" lang="">
+          Poems are made by fools like me,<br>
+          But only God can make a tree.
+        </bdo>
+      </td>
+      <td>6</td>
     </tr>
   </tbody>
 </table>
-</div>
-
-<p>ייתכן ושמתם לב שהמילה by מככבת בזמן הזה, וניתן להעזר בה לפעמים כדי להדליק לנו נורה אפשרית לגבי הזמן עתיד מושלם. </p>
-
-<p>* התרגום הוא תרגום חופשי, ואין לראות בכל חלק בתרגום בעברית משמעות מדויקת של החלק אותו הוא מתרגם מאנגלית. למשל בדוגמה האחרונה נכתב "שפסטיבל הספרים יתרחש" בלשון עתיד, בעוד שבזמן עתיד מושלם במקור נכתב "takes place" (מתרחש/קורה) בזמן הווה פשוט, כמו שנאמר בתחילת הפוסט.</p>

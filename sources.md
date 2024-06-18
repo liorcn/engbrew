@@ -135,7 +135,7 @@ title: "מקורות לימוד שימושיים וחינמיים ללמידת �
                 </td>
                 <td>
                 <p dir="rtl">ספר עם הרבה כללים לכתיבה נכונה ואלגנטית.</p>
-                <p dir="rtl">נכתב עליו פוסט ‘טעימות’ <a href="https://engbrew.com/writing-well/">באתר כאן</a>.</p>
+                <p dir="rtl">נכתב עליו פוסט ‘טעימות’ <a href="/writing-well/">באתר כאן</a>.</p>
                 </td>
             </tr>
             </table>

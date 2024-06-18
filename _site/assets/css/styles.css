@@ -11113,4 +11113,9 @@ a {
   margin-bottom: 10px;
 }
 
+.eng-sen {
+  text-align: left;
+  direction: ltr;
+}
+
 /*# sourceMappingURL=styles.css.map */
