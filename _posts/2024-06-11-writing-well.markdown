@@ -152,7 +152,7 @@ permalink: "/writing-well/"
 
 <p>‘ביטויים השתתפותיים’ (לא מצאתי תרגום למושג הזה בעברית) קודמות להם מילות חיבור או יחס, שמות עצם שסמוכים אחד לשני (apposition), שמות תואר, וביטויים שמשמשים לתיאור (adjective phrases) נכנסים תחת אותו הכלל, אם הם בתחילת המשפט.</p>
 
-<table class="table text-center table-dark">
+<table class="table text-center">
 <tbody>
 <tr>
 <td><bdo dir="ltr">When he arrived (or, On his arrival) in Chicago, his friends met him at the station.</bdo></td>
