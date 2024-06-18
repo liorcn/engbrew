@@ -33,7 +33,7 @@ google_analytics: G-MFX802S6VY
 
 # Build settings
 
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
   
