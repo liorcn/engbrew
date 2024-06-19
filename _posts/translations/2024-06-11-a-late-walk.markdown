@@ -2,7 +2,7 @@
 layout: post
 title:  "תרגום השיר A Late Walk של רוברט פרוסט"
 date:   2024-06-11 17:57:44 +0300
-categories: jekyll update
+categories: translations
 permalink: "/a-late-walk/"
 ---
 <p>השיר "הליכה מאוחרת" (תרגום חופשי) הוא שיר אופייני לסגנון של המשורר האמריקני רוברט פרוסט.</p>

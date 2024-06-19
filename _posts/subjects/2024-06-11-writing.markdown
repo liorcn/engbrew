@@ -2,7 +2,7 @@
 layout: post
 title:  "איך להשיג רמת כתיבה גבוהה באנגלית"
 date:   2024-06-11 17:57:44 +0300
-categories: jekyll update
+categories: writing
 permalink: "/writing/"
 ---
 

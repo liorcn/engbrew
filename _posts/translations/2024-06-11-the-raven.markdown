@@ -2,7 +2,7 @@
 layout: post
 title: "העורב, אדגר אלן פו – תרגום לעברית"
 date:   2024-06-11 17:57:44 +0300
-categories: jekyll update
+categories: translations
 permalink: "/the-raven/"
 ---
 
@@ -63,14 +63,14 @@ permalink: "/the-raven/"
 </tr>
 <tr>
   <td>7</td>
-  <td>פתחתי בהינף את התריס, כאשר, עם רוב חן והינף כנף,<br>פנימה פסע עורב מרשים, מהימים הקדושים של קדם;<br>לא את הקידה הקלה ביותר קד הוא; לא דקה עצר או נשאר הוא.<br>אבל, עם קלסתר פנים של אדון או גברת, ישב מעל דלת חדרי –<br>נח על פסל ראש של פאלאס ממש מעל דלת חדרי –<br>נח, וישב, ולא יותר.</td>
+  <td>פתחתי בהינף את התריס, כאשר, עם רוב חן והינף כנף,<br>פנימה פסע עורב מרשים, מהימים הקדושים של קדם;<br>לא את הקידה הקלה ביותר קד הוא; לא דקה עצר או נשאר הוא.<br>אבל, עם קלסתר פנים של אדון או גברת, ישב מעל דלת חדרי –<br>נח על פסל ראש של פאלאס<sup>1</sup> ממש מעל דלת חדרי –<br>נח, וישב, ולא יותר.</td>
   <td>
     <bdo dir="ltr" lang="">Open here I flung the shutter, when with<br>many a flirt and flutter,<br>In there stepped a stately Raven of the saintly days of yore;<br>Not the least obeisance made he; not a minute stopped or stayed he;<br>But, with mien of lord or lady, perched above my chamber door –<br>Perched upon a bust of Pallas just above my chamber door –<br>Perched, and sat, and nothing more.</bdo>
   </td>
 </tr>
 <tr>
   <td>8</td>
-  <td>ואז הציפור השחורה הזו שינתה את דמיוני העצוב לחיוך,<br>על ידי ארשת הפנים החמורה והרצינית שלבשה,<br>"אף על פי שהכרבולת שלך גזוזה ומגולחת, אתה," אמרתי, "לבטח לא פחדן,<br>עורב עגום להחריד ועתיק משוטט מהחוף הלילי –<br>תגיד לי מה שם תוארך בחוף הפלוטוני של הלילה!"<br>אמר העורב "לנצח לא."</td>
+  <td>ואז הציפור השחורה הזו שינתה את דמיוני העצוב לחיוך,<br>על ידי ארשת הפנים החמורה והרצינית שלבשה,<br>"אף על פי שהכרבולת שלך גזוזה ומגולחת, אתה," אמרתי, "לבטח לא פחדן,<br>עורב עגום להחריד ועתיק משוטט מהחוף הלילי –<br>תגיד לי מה שם תוארך בחוף ה<sup>2</sup>פלוטוני של הלילה!"<br>אמר העורב "לנצח לא."</td>
   <td>
     <bdo dir="ltr" lang="">Then this ebony bird beguiling my sad fancy into smiling,<br>By the grave and stern decorum of the countenance it wore,<br>“Though thy crest be shorn and shaven, thou,” I said, “art sure no craven,<br>Ghastly grim and ancient Raven wandering from the Nightly shore—<br>Tell me what thy lordly name is on the Night’s Plutonian shore!”<br>Quoth the Raven “Nevermore.”</bdo>
   </td>
@@ -103,7 +103,7 @@ permalink: "/the-raven/"
 <tr>
     <td>12</td>
     <td>
-    אבל העורב עדיין משנה את כל דמיוני לחיוך,<br>בישירות דחפתי כיסא מרופד אל מול ציפור, פסל ראש ודלת;<br>ואז, כשהקטיפה שקעה, פניתי אל חיבור<br>רעיון אל רעיון, חושב מה הציפור המאיימת הזו של קדם –<br>מה הציפור הזועפת, חסרת החן, הנוראה, הקודרת והמאיימת של קדם<br>התכוונה בקרקור "לנצח לא."</bdo>
+    אבל העורב עדיין משנה את כל דמיוני לחיוך,<br>בישירות דחפתי כיסא מרופד אל מול ציפור, פסל ראש ודלת;<br>ואז, כשהקטיפה שקעה, פניתי אל חיבור<br>רעיון אל רעיון, חושב מה הציפור המאיימת הזו של קדם –<br>מה הציפור הזועפת, חסרת החן, הנוראה, הקודרת והמאיימת של קדם<br>התכוונה בקרקור "לנצח לא."
     </td>
     <td>
     <bdo dir="ltr" lang="">But the Raven still beguiling all my fancy<br>into smiling,</bdo><bdo dir="ltr" lang=""><br>Straight I wheeled a cushioned seat in front of bird, and bust and door;<br>Then, upon the velvet sinking, I betook myself to linking<br>Fancy unto fancy, thinking what this ominous bird of yore—<br>What this grim, ungainly, ghastly, gaunt, and ominous bird of yore<br>Meant in croaking "Nevermore."</bdo></td>

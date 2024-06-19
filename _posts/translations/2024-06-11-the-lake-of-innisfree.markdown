@@ -2,7 +2,7 @@
 layout: post
 title: "תרגום השיר The Lake Isle of Innisfree של ויליאם בטלר ייטס"
 date:   2024-06-11 17:57:44 +0300
-categories: jekyll update
+categories: translations
 permalink: "/the-lake-isle-of-innisfree/"
 ---
 

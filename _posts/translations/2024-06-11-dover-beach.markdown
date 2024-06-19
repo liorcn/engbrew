@@ -2,7 +2,7 @@
 layout: post
 title: "תרגום Dover Beach של מת’יו ארנולד"
 date:   2024-06-11 17:57:44 +0300
-categories: jekyll update
+categories: translations
 permalink: "/dover-beach/"
 ---
 

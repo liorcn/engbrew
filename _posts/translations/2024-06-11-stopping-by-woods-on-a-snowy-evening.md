@@ -2,7 +2,7 @@
 layout: post
 title:  "תרגום Stopping by Woods on a Snowy Evening"
 date:   2024-06-11 17:57:44 +0300
-categories: jekyll update
+categories: translations
 permalink: "/stopping-by-woods-on-a-snowy-evening/"
 ---
 

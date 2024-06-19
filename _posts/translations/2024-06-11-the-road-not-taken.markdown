@@ -2,7 +2,7 @@
 layout: post
 title:  "תרגום וקריאה The Road Not Taken של רוברט פרוסט"
 date:   2024-06-11 17:57:44 +0300
-categories: jekyll update
+categories: translations
 permalink: "/the-road-not-taken/"
 ---
 

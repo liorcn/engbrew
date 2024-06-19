@@ -2,7 +2,7 @@
 layout: post
 title:  "איך ללמוד ולתרגל יכולות שמיעה ודיבור – אנגלית מדוברת"
 date:   2024-06-11 17:57:44 +0300
-categories: jekyll update
+categories: listening speaking
 permalink: "/speaking/"
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "ללמוד איך ללמוד – פיתוח המיומנות לצורך לימוד אנגלית"
 date:   2024-06-11 17:57:44 +0300
-categories: jekyll update
+categories: learning
 permalink: "/learning-how-to-learn/"
 ---
 

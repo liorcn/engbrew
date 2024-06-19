@@ -2,7 +2,7 @@
 layout: post
 title:  "תרגום A Minor Bird של רוברט פרוסט"
 date:   2024-06-11 17:57:44 +0300
-categories: jekyll update
+categories: translations
 permalink: "/a-minor-bird/"
 ---
 <h1>תרגום A Minor Bird של רוברט פרוסט</h1>

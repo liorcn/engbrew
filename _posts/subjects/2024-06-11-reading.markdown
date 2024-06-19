@@ -2,7 +2,7 @@
 layout: post
 title:  "איך לשפר את הקריאה באנגלית – צעד אחר צעד וחינם"
 date:   2024-06-11 17:57:44 +0300
-categories: jekyll update
+categories: reading
 permalink: "/reading/"
 ---
 

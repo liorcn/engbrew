@@ -2,7 +2,7 @@
 layout: post
 title: "תרגום השיר The Untold Want של וולט ויטמן"
 date:   2024-06-11 17:57:44 +0300
-categories: jekyll update
+categories: translations
 permalink: "/the-untold-want/"
 ---
 
