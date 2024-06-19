@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-06-18T20:07:13+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">engbrew</title><subtitle>פרויקט חינמי שמטרתו לעודד לימוד אנגלית בצורה מקיפה ועצמאית. זאת כחלק מפיתוח יכולות למידה איכותיות.</subtitle><entry><title type="html">איך ללמד ילדים בגיל הרך אנגלית ככה שהם יבינו</title><link href="http://localhost:4000/children-english-learning/" rel="alternate" type="text/html" title="איך ללמד ילדים בגיל הרך אנגלית ככה שהם יבינו" /><published>2024-06-11T17:57:44+03:00</published><updated>2024-06-11T17:57:44+03:00</updated><id>http://localhost:4000/children-english-learning</id><content type="html" xml:base="http://localhost:4000/children-english-learning/"><![CDATA[<p>בשלבי הילדות, ובשלבי הגיל הרך (0-6) בפרט, המוח גמיש בצורה מדהימה ומסוגל לקלוט כמויות מידע גדולות בקלות יחסית. זו הסיבה שדימוי נפוץ למוח בתקופת הגיל הזו הוא ספוג.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-06-19T22:06:58+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">engbrew</title><subtitle>פרויקט חינמי שמטרתו לעודד לימוד אנגלית בצורה מקיפה ועצמאית. זאת כחלק מפיתוח יכולות למידה איכותיות.</subtitle><entry><title type="html">איך ללמד ילדים בגיל הרך אנגלית ככה שהם יבינו</title><link href="http://localhost:4000/children-english-learning/" rel="alternate" type="text/html" title="איך ללמד ילדים בגיל הרך אנגלית ככה שהם יבינו" /><published>2024-06-11T17:57:44+03:00</published><updated>2024-06-11T17:57:44+03:00</updated><id>http://localhost:4000/children-english-learning</id><content type="html" xml:base="http://localhost:4000/children-english-learning/"><![CDATA[<p>בשלבי הילדות, ובשלבי הגיל הרך (0-6) בפרט, המוח גמיש בצורה מדהימה ומסוגל לקלוט כמויות מידע גדולות בקלות יחסית. זו הסיבה שדימוי נפוץ למוח בתקופת הגיל הזו הוא ספוג.</p>
 
 <p>אם כך, זה רעיון נהדר, לספק לילדים אתגרים חושיים ושכליים באותה התקופה. האתגרים האלה יובילו לפיתוח כישורים שיועילו להם רבות בעתיד במהלך החיים, במיוחד כשמדובר בשפה האנגלית, שבעזרתה ניתן ללמוד הכל.</p>
 
@@ -436,7 +436,7 @@
 
 <p>פסיק, ולא נקודה פסיק נדרש. אבל הצורה הזו לא מתאימה לכתיבה, חוץ מאשר בדיאלוג של סיפור או מחזה, או מכתב.</p>
 
-<h3>6. אל תחלקו משפטים לשתיים.</h3>
+<h3>6. אל תחלקו משפט לשניים.</h3>
 
 <p>במילים אחרות, אל תחליפו פסיקים בנקודות.</p>
 
@@ -460,9 +460,9 @@
 
 <p class="eng-sen">He saw a woman accompanied by two children, walking slowly down the road.</p>
 
-<p>‘ביטויים השתתפותיים’ (לא מצאתי תרגום למושג הזה בעברית) קודמות להם מילות חיבור או יחס, שמות עצם שסמוכים אחד לשני (apposition), שמות תואר, וביטויים שמשמשים לתיאור (adjective phrases) נכנסים תחת אותו הכלל, אם הם בתחילת המשפט.</p>
+<p>‘ביטויים השתתפותיים’ (לא מצאתי תרגום למושג הזה בעברית) שקודמות להם מילות חיבור או יחס, שמות עצם שסמוכים אחד לשני (apposition), שמות תואר, וביטויים שמשמשים לתיאור (adjective phrases) נכנסים תחת אותו הכלל, אם הם בתחילת המשפט.</p>
 
-<table class="table text-center">
+<table class="table text-center table-dark">
 <tbody>
 <tr>
 <td><bdo dir="ltr">When he arrived (or, On his arrival) in Chicago, his friends met him at the station.</bdo></td>

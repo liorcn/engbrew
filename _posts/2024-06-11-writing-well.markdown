@@ -126,7 +126,7 @@ permalink: "/writing-well/"
 
 <p>פסיק, ולא נקודה פסיק נדרש. אבל הצורה הזו לא מתאימה לכתיבה, חוץ מאשר בדיאלוג של סיפור או מחזה, או מכתב.</p>
 
-<h3>6. אל תחלקו משפטים לשתיים.</h3>
+<h3>6. אל תחלקו משפט לשניים.</h3>
 
 <p>במילים אחרות, אל תחליפו פסיקים בנקודות.</p>
 
@@ -150,9 +150,9 @@ permalink: "/writing-well/"
 
 <p class="eng-sen">He saw a woman accompanied by two children, walking slowly down the road.</p>
 
-<p>‘ביטויים השתתפותיים’ (לא מצאתי תרגום למושג הזה בעברית) קודמות להם מילות חיבור או יחס, שמות עצם שסמוכים אחד לשני (apposition), שמות תואר, וביטויים שמשמשים לתיאור (adjective phrases) נכנסים תחת אותו הכלל, אם הם בתחילת המשפט.</p>
+<p>‘ביטויים השתתפותיים’ (לא מצאתי תרגום למושג הזה בעברית) שקודמות להם מילות חיבור או יחס, שמות עצם שסמוכים אחד לשני (apposition), שמות תואר, וביטויים שמשמשים לתיאור (adjective phrases) נכנסים תחת אותו הכלל, אם הם בתחילת המשפט.</p>
 
-<table class="table text-center">
+<table class="table text-center table-dark">
 <tbody>
 <tr>
 <td><bdo dir="ltr">When he arrived (or, On his arrival) in Chicago, his friends met him at the station.</bdo></td>

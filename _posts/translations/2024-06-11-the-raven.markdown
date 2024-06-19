@@ -41,7 +41,8 @@ permalink: "/the-raven/"
 </tr>
 <tr>
     <td>4</td>
-    <td>ובאותו הרגע נפשי התחזקה; מהסס ואז כבר לא,<br>"אדון," אמרתי, "או גברת, באמת את מחילתכם אני דורש;<br>אבל האמת היא שאני נמנמתי, וכך עדין אתם נקשתם.<br>ובאופן כך חלוש אתם דפקתם, דפקתם בדלת חדרי.<br>כך שאני בקושי הייתי בטוח ששמעתי אתכם"</td>
+    <td>ובאותו הרגע נפשי התחזקה; מהסס ואז כבר לא,<br>"אדון," אמרתי, "או גברת, באמת את מחילתכם אני דורש;<br>אבל האמת היא שאני נמנמתי, וכך עדין אתם נקשתם.<br>ובאופן כך חלוש אתם דפקתם, דפקתם בדלת חדרי.<br>כך שאני בקושי הייתי בטוח ששמעתי אתכם" –
+    <br>בשלב זה פתחתי את הדלת לרווחה –<br>חושך שם ולא יותר.</td>
     <td>
     <bdo dir="ltr" lang="">Presently my soul grew stronger; hesitating then no longer,<br>"Sir," said I, "or Madam, truly your forgiveness I implore;<br>But the fact is I was napping, and so gently you came rapping,<br>And so faintly you came tapping, tapping at my chamber door,<br>That I scarce was sure I heard you" –</bdo> <bdo dir="ltr" lang="">here I opened wide the door –<br>Darkness there and nothing more.</bdo>
     </td>
