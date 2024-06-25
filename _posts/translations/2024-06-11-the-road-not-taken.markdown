@@ -7,7 +7,7 @@ permalink: "/the-road-not-taken/"
 ---
 
 
-<table class="table text-center table-dark">
+<table class="table text-center">
   <tr>
    <td>בית<br>
    </td>

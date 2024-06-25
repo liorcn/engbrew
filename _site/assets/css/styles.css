@@ -11118,4 +11118,15 @@ a {
   direction: ltr;
 }
 
+a {
+  color: #007bff; /* Choose your preferred blue color */
+}
+
+a:hover,
+a:focus,
+a:active {
+  color: #0056b3; /* Darker blue for hover, focus, and active states */
+  text-decoration: underline; /* Add underline on hover, focus, and active states */
+}
+
 /*# sourceMappingURL=styles.css.map */

@@ -7,7 +7,7 @@ permalink: "/stopping-by-woods-on-a-snowy-evening/"
 ---
 
 <div class="table-responsive">
-<table class="table text-center table-dark">
+<table class="table text-center">
   <tr>
     <td>בית</td>
     <td>מקור</td>

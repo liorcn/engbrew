@@ -1,17 +1,35 @@
 <!DOCTYPE html>
-<html lang="he" dir="rtl">
-  {% include head.html %}
-<body>
+<html lang = "he" dir = "rtl">
+    {% include head.html %}
+<body class="hebrew-text">
   {% include nav.html %}
 
+        <!-- Page Header-->
+        <header class="masthead" style="background-image: url('../assets/img/post-bg.jpg')">
+            <div class="container position-relative px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <div class="post-heading">
+                            <h1>{{page.title}}</h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
 
-  <main>
-    {{ content }}
-  </main>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
-  <script src="../assets/js/main.js"></script>
+        <!-- Post Content-->
+        <article class="mb-4">
+            <div class="container-fluid px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-12 col-lg-10 col-xl-9">
+                        {{ content }}
+                    </div>
+                </div>
+            </div>
+        </article>
 
-  {% include footer.html %}
-
-</body>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+        <script src="../assets/js/main.js"></script>
+        {% include footer.html %}
+    </body>
 </html>

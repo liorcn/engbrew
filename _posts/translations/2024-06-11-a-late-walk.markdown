@@ -8,7 +8,7 @@ permalink: "/a-late-walk/"
 <p>השיר "הליכה מאוחרת" (תרגום חופשי) הוא שיר אופייני לסגנון של המשורר האמריקני רוברט פרוסט.</p>
 
 <div class="table-responsive">
-    <table class="table text-center table-dark">
+    <table class="table text-center">
         <tbody>
             <tr>
                 <td>תרגום</td>

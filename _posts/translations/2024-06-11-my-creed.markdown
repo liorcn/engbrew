@@ -9,7 +9,7 @@ permalink: "/my-creed/"
 
 <p>השיר My Creed שניתן לתרגם אותו כ”האמונה שלי” נכתב על ידי המשורר האמריקאי אדגר אלברט גסט (Edgar Albert Guest).</p>
 
-<table class="table text-center table-dark">
+<table class="table text-center">
   <tbody>
     <tr>
       <td>תרגום</td>

@@ -12,7 +12,7 @@ permalink: "/a-minor-bird/"
 <p>המילה minor בשם השיר, כנראה מרמזת שהציפור 'בעלת משמעות זניחה' – עבור מי?.</p>
 
 <div class="table-responsive">
-    <table class="table text-center table-dark">
+    <table class="table text-center">
         <tbody>
             <tr>
                 <td>תרגום</td>

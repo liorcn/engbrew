@@ -11,7 +11,7 @@ permalink: "/do-not-stand-at-my-grave-and-weep/"
 
 <p>בגרסה הזו, שפורסמה במגזין The Gypsy בשנת 1934, השורה הראשונה נכתבת עם by my grave ולא at my grave. בגרסאות אחרות, השינוי נעשה ומוכר כיום כשם השיר.</p>
 
-<table class="table text-center table-dark">
+<table class="table text-center">
   <tbody>
     <tr>
       <td>תרגום</td>

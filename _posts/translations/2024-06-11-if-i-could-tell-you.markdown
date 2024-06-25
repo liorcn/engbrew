@@ -9,7 +9,7 @@ permalink: "/if-i-could-tell-you/"
 <p>השיר נכתב על ידי המשורר האנגלי-אמריקאי ו.ה. אודן <bdo lang="" dir="ltr">(W.H. Auden)</bdo>.</p>
 
 <div class="table-responsive">
-<table class="table text-center table-dark">
+<table class="table text-center">
   <tbody>
     <tr>
       <td>תרגום</td>

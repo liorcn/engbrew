@@ -152,7 +152,7 @@ permalink: "/writing-well/"
 
 <p>‘ביטויים השתתפותיים’ (לא מצאתי תרגום למושג הזה בעברית) שקודמות להם מילות חיבור או יחס, שמות עצם שסמוכים אחד לשני (apposition), שמות תואר, וביטויים שמשמשים לתיאור (adjective phrases) נכנסים תחת אותו הכלל, אם הם בתחילת המשפט.</p>
 
-<table class="table text-center table-dark">
+<table class="table text-center">
 <tbody>
 <tr>
 <td><bdo dir="ltr">When he arrived (or, On his arrival) in Chicago, his friends met him at the station.</bdo></td>
@@ -214,7 +214,7 @@ permalink: "/writing-well/"
 
 <p>קבעו קביעות ברורות. המנעו משפה ‘עדינה’, חסרת צבע, מהססת ולא מתחייבת. השתמשו במילה not רק כאמצעי להכחשה או הצגת דבר נגדי, אך לעולם לא כאמצעי להתחמקות.</p>
 
-<table class="table text-center table-dark">
+<table class="table text-center">
 <tbody>
     <tr>
     <td><bdo lang="" dir="ltr">He usually came late.</bdo></td>
@@ -249,7 +249,7 @@ permalink: "/writing-well/"
 
 <p class="">העדיפו את הספציפי על הכללי, את הברור על המעורפל, ואת הממשי על המופשט.</p>
 
-<table class="table text-center table-dark">
+<table class="table text-center">
 <tbody>
     <tr>
     <td><bdo lang="" dir="ltr">It rained every day for a week.</bdo></td>
@@ -286,7 +286,7 @@ permalink: "/writing-well/"
 
 <p>המיקום הראוי בתוך משפט למילה או קבוצת מילים שהכותב מעוניין להעניק להן דגש ומשקל, הוא בסוף המשפט.</p>
 
-<table class="table text-center table-dark">
+<table class="table text-center">
 <tbody>
     <tr>
     <td><bdo lang="" dir="ltr">Humanity, since that time, has advanced in many other ways, but it has hardly advanced in fortitude.</bdo></td>

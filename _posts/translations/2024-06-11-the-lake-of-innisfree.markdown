@@ -9,7 +9,7 @@ permalink: "/the-lake-isle-of-innisfree/"
 <p>השיר <em>The Lake Isle of Innisfree</em> (בתרגום חופשי לעברית: "אי האגם של אינספרי") נכתב ע"י המשורר והמחזאי האירי <em>ויליאם בטלר ייטס</em>.</p>
 
 <div class="table-responsive">
-<table class="table text-center table-dark">
+<table class="table text-center">
 <tbody>
 <tr>
 <td>בית</td>

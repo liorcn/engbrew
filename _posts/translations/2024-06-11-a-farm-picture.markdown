@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "הזמן עתיד מושלם – Future Perfect – לימוד אנגלית"
+title: "תרגום A Farm Picture של וולט ויטמן"
 date:   2024-06-11 17:57:44 +0300
 categories: translations
 permalink: "/a-farm-picture/"
@@ -9,7 +9,7 @@ permalink: "/a-farm-picture/"
 <p>שיר כפרי ציורי, קצר במיוחד, של המשורר האמריקאי וולט ויטמן.</p>
 
 <div class="table-responsive">
-<table class="table text-center table-dark">
+<table class="table text-center">
   <tbody>
     <tr>
       <td>תרגום</td>

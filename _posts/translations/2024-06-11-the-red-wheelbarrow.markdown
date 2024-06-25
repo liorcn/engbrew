@@ -11,7 +11,7 @@ permalink: "/the-red-wheelbarrow/"
 <p>בעזרת כמה שורות, ויליאמס יצר אוירה ייחודית בשיר, כזאת שמדגישה התרכזות גם בדברים שיכולים להראות &#8216;פשוטים&#8217; במהלך היום-יום.</p>
 
 <div class="table-responsive">
-<table class="table text-center table-dark">
+<table class="table text-center">
   <tbody>
     <tr>
       <td>תרגום</td>

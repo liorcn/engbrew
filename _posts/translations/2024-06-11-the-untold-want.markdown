@@ -9,7 +9,7 @@ permalink: "/the-untold-want/"
 <p>The Untold Want (הרצון שלא נאמר) הוא שיר קצר, אך מלא משמעות, של המשורר וולט ויטמן. </p>
 
 <div class="table-responsive">
-<table class="table text-center table-dark">
+<table class="table text-center">
   <tbody>
     <tr>
       <td>תרגום</td>

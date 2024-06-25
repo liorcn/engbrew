@@ -8,7 +8,7 @@ permalink: "/there-is-another-sky/"
 
 <p>השיר נכתב על ידי המשוררת האמריקאית אמילי דיקנסון בשנת 1890.</p>
 
-<table class="table text-center table-dark">
+<table class="table text-center">
   <tbody>
     <tr>
       <td>תרגום</td>

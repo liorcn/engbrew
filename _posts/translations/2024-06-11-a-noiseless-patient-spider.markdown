@@ -11,7 +11,7 @@ permalink: "/a-noiseless-patient-spider/"
 <p>השיר נכתב על ידי המשורר האמריקני וולט ויטמן. טיוטה ראשונית של השיר נמצאה בכתביו מאמצע המאה ה-19.</p>
 
 <div class="table-responsive">
-    <table class="table text-center table-dark">
+    <table class="table text-center">
         <tbody>
             <tr>
                 <td>תרגום</td>

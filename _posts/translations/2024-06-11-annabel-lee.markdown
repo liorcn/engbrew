@@ -8,7 +8,7 @@ permalink: "/annabel-lee/"
 
 <p>השיר <em>Annabel Lee</em> נכתב על ידי המשורר האמריקאי <em>אדגר אלן פו</em>, ופורסם מעט לאחר מותו בשנת 1849.</p>
 
-<table class="table text-center table-dark">
+<table class="table text-center">
 <tbody>
 <tr>
 <td>בית</td>

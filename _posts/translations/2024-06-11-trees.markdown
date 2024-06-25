@@ -9,7 +9,7 @@ permalink: "/trees/"
 
 <p>השיר <em>עצים</em> של ג'ויס קילמר, הוא שיר שמשבח עצים.</p>
 
-<table class="table text-center table-dark">
+<table class="table text-center">
   <tbody>
     <tr>
       <td>תרגום</td>

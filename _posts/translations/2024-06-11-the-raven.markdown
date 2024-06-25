@@ -11,7 +11,7 @@ permalink: "/the-raven/"
 <p>בתרגום הזה, אין שמירה עליהם.</p>
 <p>כדאי לקרוא את <a href="https://benyehuda.org/read/655" title="התרגום של ז'בוטינסקי">התרגום של ז'בוטינסקי</a> שמובא בפרויקט בן יהודה, ובו הצליח לשמר מאפיינים רבים של השיר המקורי.</p>
 
-<table class="table text-center table-dark">
+<table class="table text-center">
 <tbody>
 <tr>
     <td>בית</td>

@@ -10,7 +10,7 @@ permalink: "/tongue-twisters/"
 
 <p>משפט בעברית שכולנו מכירים הוא "גנן גידל דגן בגן...", נביט בדוגמה באנגלית:</p>
 
-<table class="table text-center table-dark">
+<table class="table text-center">
   <tbody>
     <tr>
       <td>תרגום</td>
@@ -39,7 +39,7 @@ permalink: "/tongue-twisters/"
 
 <h3>דוגמה 1</h3>
 
-<table class="table text-center table-dark">
+<table class="table text-center">
   <tbody>
     <tr>
       <td>תרגום</td>
@@ -54,7 +54,7 @@ permalink: "/tongue-twisters/"
 
 <h3>דוגמה 2</h3>
 
-<table class="table text-center table-dark">
+<table class="table text-center">
   <tbody>
     <tr>
       <td>תרגום</td>
@@ -69,7 +69,7 @@ permalink: "/tongue-twisters/"
 
 <h3>דוגמה 3</h3>
 
-<table class="table text-center table-dark">
+<table class="table text-center">
   <tbody>
     <tr>
       <td>תרגום</td>
@@ -86,7 +86,7 @@ permalink: "/tongue-twisters/"
 
 <h3>דוגמה 4</h3>
 
-<table class="table text-center table-dark">
+<table class="table text-center">
   <tbody>
     <tr>
       <td>תרגום</td>

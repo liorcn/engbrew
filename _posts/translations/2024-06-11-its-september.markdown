@@ -11,7 +11,7 @@ permalink: "/its-september/"
 
 <p>שורה אחר שורה, גסט בונה את התפאורה הסתווית הרגועה בשיר לעיני הקורא.</p>
 
-<table class="table text-center table-dark">
+<table class="table text-center">
   <tbody>
     <tr>
       <td>בית</td>

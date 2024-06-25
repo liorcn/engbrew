@@ -9,7 +9,7 @@ permalink: "/hope-is-the-thing-with-feathers/"
 
 <p>“תקווה היא הדבר עם הנוצות” (תרגום חופשי) הוא שיר שנכתב על ידי המשוררת האמריקאית אמילי דיקנסון. היא כתבה אותו באזור 1861 והוא ראה אור לאחר מותה, בשנת 1891.</p>
 
-<table class="table text-center table-dark">
+<table class="table text-center">
   <tbody>
     <tr>
       <td>תרגום</td>
