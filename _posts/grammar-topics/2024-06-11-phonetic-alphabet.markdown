@@ -10,7 +10,7 @@ permalink: "/phonetic-alphabet/"
 
 <p>זהו מה שנראה במבט ראשוני:</p>
 
-<img src="../assets/img/procceed_dictionary.jpg" alt="a dictionary definition">
+<img src="engbrew/assets/img/proceed_dictionary.jpg" alt="a dictionary definition">
 
 <p>מתחת למילה אנחנו רואים ש<a href="/parts-of-speech/" title="חלק הדיבור">חלק הדיבור</a> של המילה הזו הוא פועל. אם תחפשו בעצמכם תראו בחלק נוסף למטה פירושים שונים, שנחתכו מהתמונה כדי להתמקד בנושא הפוסט בלבד.</p>
 
