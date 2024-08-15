@@ -10697,13 +10697,14 @@ header.masthead .site-heading .h1 {
 }
 header.masthead .page-heading .subheading,
 header.masthead .site-heading .subheading {
-  font-size: 1.5rem;
+  font-size: 3.5rem;
   font-weight: 300;
   line-height: 1.1;
   display: block;
   margin-top: 0.625rem;
   font-family: "Miriam Libre", sans-serif;
 }
+
 header.masthead .post-heading h1, header.masthead .post-heading .h1 {
   font-size: 2.25rem;
 }
@@ -10737,6 +10738,7 @@ header.masthead .post-heading .meta a {
   header.masthead .site-heading .h1 {
     font-size: 5rem;
   }
+
   header.masthead .post-heading h1, header.masthead .post-heading .h1 {
     font-size: 3.5rem;
   }
