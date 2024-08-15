@@ -72,6 +72,11 @@ title: "יצירות באנגלית מתורגמות לעברית – תרגול
     <li><a href="/the-lake-isle-of-innisfree/">The Lake Isle of Innisfree</a></li>
 </ul>
 
+<h2>פרסי ביש שלי – Percy Bysshe Shelley</h2>
+<ul>
+    <li><a href="/ozymandias/">אוזימנדיאס – Ozymandias</a></li>
+</ul>
+
 <hr>
 <h3>על תרגומים של שירה מחורזת</h3>
 
