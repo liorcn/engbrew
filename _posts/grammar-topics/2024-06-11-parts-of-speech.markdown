@@ -46,7 +46,7 @@ permalink: "/parts-of-speech/"
 </div>
 
 <p>
-<string>העשרה</string> – יש שני סוגי תוויות, definite ו-indefinite.
+<strong>העשרה</strong> – יש שני סוגי תוויות, definite ו-indefinite.
 definite article בשמה העברי היא ה"א הידיעה.
 בניגוד לה, יש את indefinite article, כמו a ו-an ושמה בעברית הוא
 תווית אי-ידוע או תווית סיתום. ההבדל בינהן הוא כשמן – האם שם העצם ידוע,
