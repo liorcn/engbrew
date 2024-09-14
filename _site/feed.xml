@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-16T00:00:25+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">engbrew</title><subtitle>פרויקט חינמי שמטרתו לעודד לימוד אנגלית בצורה מקיפה ועצמאית. זאת כחלק מפיתוח יכולות למידה איכותיות.</subtitle><entry><title type="html">איך ללמד ילדים בגיל הרך אנגלית ככה שהם יבינו</title><link href="http://localhost:4000/children-english-learning/" rel="alternate" type="text/html" title="איך ללמד ילדים בגיל הרך אנגלית ככה שהם יבינו" /><published>2024-06-11T17:57:44+03:00</published><updated>2024-06-11T17:57:44+03:00</updated><id>http://localhost:4000/children-english-learning</id><content type="html" xml:base="http://localhost:4000/children-english-learning/"><![CDATA[<p>בשלבי הילדות, ובשלבי הגיל הרך (0-6) בפרט, המוח גמיש בצורה מדהימה ומסוגל לקלוט כמויות מידע גדולות בקלות יחסית. זו הסיבה שדימוי נפוץ למוח בתקופת הגיל הזו הוא ספוג.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-09-14T21:51:19+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">engbrew</title><subtitle>פרויקט חינמי שמטרתו לעודד לימוד אנגלית בצורה מקיפה ועצמאית. זאת כחלק מפיתוח יכולות למידה איכותיות.</subtitle><entry><title type="html">איך ללמד ילדים בגיל הרך אנגלית ככה שהם יבינו</title><link href="http://localhost:4000/children-english-learning/" rel="alternate" type="text/html" title="איך ללמד ילדים בגיל הרך אנגלית ככה שהם יבינו" /><published>2024-06-11T17:57:44+03:00</published><updated>2024-06-11T17:57:44+03:00</updated><id>http://localhost:4000/children-english-learning</id><content type="html" xml:base="http://localhost:4000/children-english-learning/"><![CDATA[<p>בשלבי הילדות, ובשלבי הגיל הרך (0-6) בפרט, המוח גמיש בצורה מדהימה ומסוגל לקלוט כמויות מידע גדולות בקלות יחסית. זו הסיבה שדימוי נפוץ למוח בתקופת הגיל הזו הוא ספוג.</p>
 
 <p>אם כך, זה רעיון נהדר, לספק לילדים אתגרים חושיים ושכליים באותה התקופה. האתגרים האלה יובילו לפיתוח כישורים שיועילו להם רבות בעתיד במהלך החיים, במיוחד כשמדובר בשפה האנגלית, שבעזרתה ניתן ללמוד הכל.</p>
 
@@ -915,7 +915,7 @@
 
 <p>בדרך כלל, שמות עצם יכולים להופיע בצורת יחיד או בצורת רבים. זה אינו נכון עבור שמות עצם בלתי ספירים עליהם נכתוב בחלק אחר בפרויקט.</p>
 
-<h3>תוויות ידוע – a, an, the</h3>
+<h3>תוויות ידוע – Articles</h3>
 
 <p>ניתן לחשוב על תוויות ידוע בהקשר שלנו כמילים שמוסיפות מידע לגבי הכמות של שם העצם. כאשר שם עצם הוא ספיר, כלומר ניתן &#8216;לכמת&#8217; אותו (מלשון כמות), נשתמש בתוויות הידוע a או an לפני שם העצם בצורת יחיד.</p>
 
@@ -938,6 +938,15 @@
     I ate the apple – אני אכלתי את התפוח 
   </div>
 </div>
+
+<p>
+העשרה - יש שני סוגי תוויות, definite ו-indefinite.
+ה"א הידיעה שאנו מכירים היא המונח העברי ל-definite article.
+בניגוד לה, יש את indefinite article, כמו a ו-an ושמה בעברית הוא
+תווית אי-ידוע או תווית סיתום. ההבדל בינהן הוא כשמן – האם שם העצם ידוע,
+כלומר מסויים, או שמא כללי.<br />
+אין חובה להכיר את המונחים האלו.
+</p>
 
 <h2>כינויי גוף – Pronouns</h2>
 
