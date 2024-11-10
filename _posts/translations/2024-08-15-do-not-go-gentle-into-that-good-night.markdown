@@ -1,0 +1,113 @@
+---
+layout: post
+title:  "תרגום השיר Do Not Go Gentle Into That Good Night"
+date:   2024-06-11 17:57:44 +0300
+categories: translations
+permalink: "/do-not-go-gentle-into-that-good-night/"
+---
+
+<p>השיר Do Not Go Gentle Into That Good Night (בתרגום חופשי 'אל תלך ברוך אל הלילה הטוב הזה')
+נכתב על ידי דילן תומס.
+</p>
+
+<div class="table-responsive">
+<table class="table text-center">
+<tbody>
+  <tr>
+   <td>בית<br>
+   </td>
+   <td>תרגום<br>
+   </td>
+   <td>מקור<br>
+   </td>
+  </tr>
+  <tr>
+   <td>1<br>
+   </td>
+   <td>
+   אל תלך ברוך אל הלילה הטוב הזה,<br>
+   על הזקנה לבעור ולזעום בשלהי היום;<br>
+   זעם, זעם אל מול גסיסת האור.
+   </td>
+   <td><bdo dir="ltr" lang="">
+	Do not go gentle into that good night,<br>
+	Old age should burn and rave at close of day;<br>
+	Rage, rage against the dying of the light.
+	</bdo></td>
+  </tr>
+  <tr>
+   <td>2<br>
+   </td>
+   <td>
+   אף כי אנשים נבונים בסופם יודעים כי החשיכה אמיתית,<br>
+   כי המילים שלהם לא היכו כברק, הם<br>
+   לא הולכים ברוך אל הלילה הטוב הזה.
+   </td>
+<td><bdo dir="ltr" lang="">
+Though wise men at their end know dark is right,<br>
+Because their words had forked no lightning they<br>
+Do not go gentle into that good night.
+   </bdo></td>
+  </tr>
+  <tr>
+   <td>3<br>
+   </td>
+   <td>
+   אנשים טובים, בגל האחרון, בוכים באיזו בהירות<br>
+   מעשיהם העדינים אולי רקדו במפרץ ירוק,<br>
+   זעם, זעם אל מול גסיסת האור.
+   </td>
+   <td><bdo dir="ltr" lang="">  
+Good men, the last wave by, crying how bright<br>
+Their frail deeds might have danced in a green bay,<br>
+Rage, rage against the dying of the light.
+   </bdo></td>
+  </tr>
+  <tr>
+   <td>4<br>
+   </td>
+   <td>
+   אנשי פרא שתפסו את השמש ושרו לה, במנוסתה<br>
+   ולמדו, מאוחר מידי, שהם התאבלו עליה בדרכה,<br>
+   אל תלך ברוך אל הלילה הטוב הזה.
+   </td>
+   <td><bdo dir="ltr" lang="">
+Wild men who caught and sang the sun in flight,<br>
+And learn, too late, they grieved it on its way,<br>
+Do not go gentle into that good night.
+   </bdo></td>
+  </tr>
+    <tr>
+   <td>5<br>
+   </td>
+   <td>
+   אנשים קודרים, קרוב למוות, שמראה עינהם נתון לעיוורון<br>
+   עיניים עיוורות יכולות לזרוח כמו מטאורים ולהיות עליזות,<br>
+   זעם, זעם אל מול גסיסת האור.
+   </td>
+   <td><bdo dir="ltr" lang="">
+Grave men, near death, who see with blinding sight<br>
+Blind eyes could blaze like meteors and be gay,<br>
+Rage, rage against the dying of the light.
+   </bdo></td>
+  </tr>
+    <tr>
+   <td>6<br>
+   </td>
+   <td>
+ואתה, אבי, שם במרומי העצב,<br>
+קלל, ברך אותי עכשיו בדמעותיך העזות, אני נושא תפילה<br>
+אל תלך ברוך אל הלילה הטוב הזה.<br>
+זעם, זעם אל מול גסיסת האור.
+
+   </td>
+   <td><bdo dir="ltr" lang="">
+And you, my father, there on the sad height,<br>
+Curse, bless, me now with your fierce tears, I pray.<br>
+Do not go gentle into that good night.<br>
+Rage, rage against the dying of the light.
+   </bdo></td>
+  </tr>
+  </tbody>
+</table>
+</div>

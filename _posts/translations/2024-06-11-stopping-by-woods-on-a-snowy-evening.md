@@ -10,8 +10,8 @@ permalink: "/stopping-by-woods-on-a-snowy-evening/"
 <table class="table text-center">
   <tr>
     <td>בית</td>
-    <td>מקור</td>
     <td>תרגום</td>
+    <td>מקור</td>
   </tr>
   <tr>
     <td>1</td>

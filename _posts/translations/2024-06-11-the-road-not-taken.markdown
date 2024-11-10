@@ -11,9 +11,9 @@ permalink: "/the-road-not-taken/"
   <tr>
    <td>בית<br>
    </td>
-   <td>מקור<br>
-   </td>
    <td>תרגום<br>
+   </td>
+   <td>מקור<br>
    </td>
   </tr>
   <tr>
