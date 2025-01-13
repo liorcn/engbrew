@@ -4,8 +4,6 @@ permalink: "/translations-index/"
 title: "יצירות באנגלית מתורגמות לעברית – תרגול קריאה באנגלית בחינם"
 ---
 
-
-
 <div class="container px-4 px-lg-5">
   <div class="row gx-4 gx-lg-5 justify-content-center">
       <div class="col-md-10 col-lg-8 col-xl-7">
@@ -23,6 +21,7 @@ title: "יצירות באנגלית מתורגמות לעברית – תרגול
     <li><a href="/a-late-walk/">הליכה מאוחרת – A Late Walk</a></li>
     <li><a href="/a-minor-bird/">ציפור קטנה – A Minor Bird</a></li>
     <li><a href="/dust-of-snow/">אבק של שלג – Dust of Snow</a></li>
+    <li><a href="/fireflies-in-the-garden/">גחליליות בגן – Fireflies in the Garden</a></li>
 </ul>
 
 <h2>וולט ויטמן – Walt Whitman</h2>
