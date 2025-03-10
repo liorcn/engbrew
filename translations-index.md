@@ -22,6 +22,7 @@ title: "יצירות באנגלית מתורגמות לעברית – תרגול
     <li><a href="/a-minor-bird/">ציפור קטנה – A Minor Bird</a></li>
     <li><a href="/dust-of-snow/">אבק של שלג – Dust of Snow</a></li>
     <li><a href="/fireflies-in-the-garden/">גחליליות בגן – Fireflies in the Garden</a></li>
+    <li><a href="/acquainted-with-the-night/">מכיר את הלילה – Acquainted With the Night</a></li>
 </ul>
 
 <h2>וולט ויטמן – Walt Whitman</h2>
@@ -92,8 +93,7 @@ title: "יצירות באנגלית מתורגמות לעברית – תרגול
 <p>הסיבה לתרגום הזה נעוצה במטרת הפרויקט engbrew – לימוד אנגלית. להראות את התרגום 'הישיר' של המשפטים השונים, גם אם במחיר של איבוד האסתטיקה של החריזה, יוכל לאפשר לקוראים להתרשם ממבנה השפה.</p>
 
 <p><strong>אין זה ויתור על החריזה</strong>, לה יש חלק גדול בשירה, אלא חתירה להבנה שלה. <strong>היעד הוא שעם ההתקדמות בלימוד, הקורא יוכל להנות מהחריזה בשפת המקור, כפי שנכתבה באנגלית</strong>.</p>
-
-          
+         
       </div>
   </div>
 </div>
