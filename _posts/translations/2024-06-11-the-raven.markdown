@@ -41,7 +41,7 @@ permalink: "/the-raven/"
 </tr>
 <tr>
     <td>4</td>
-    <td>ובאותו הרגע נפשי התחזקה; מהסס ואז כבר לא,<br>"אדון," אמרתי, "או גברת, באמת את מחילתכם אני דורש;<br>אבל האמת היא שאני נמנמתי, וכך עדין אתם נקשתם.<br>ובאופן כך חלוש אתם דפקתם, דפקתם בדלת חדרי.<br>כך שאני בקושי הייתי בטוח ששמעתי אתכם" –
+    <td>ובאותו הרגע נפשי התחזקה; מהסס ואז כבר לא,<br>"אדון," אמרתי, "או גברת, באמת את מחילתכם אני דורש;<br>אבל האמת היא שאני נמנמתי, וכה עדין אתם נקשתם.<br>ובאופן כך חלוש אתם דפקתם, דפקתם בדלת חדרי.<br>כך שאני בקושי הייתי בטוח ששמעתי אתכם" –
     <br>בשלב זה פתחתי את הדלת לרווחה –<br>חושך שם ולא יותר.</td>
     <td>
     <bdo dir="ltr" lang="">Presently my soul grew stronger; hesitating then no longer,<br>"Sir," said I, "or Madam, truly your forgiveness I implore;<br>But the fact is I was napping, and so gently you came rapping,<br>And so faintly you came tapping, tapping at my chamber door,<br>That I scarce was sure I heard you" –</bdo> <bdo dir="ltr" lang="">here I opened wide the door –<br>Darkness there and nothing more.</bdo>
@@ -70,7 +70,7 @@ permalink: "/the-raven/"
 </tr>
 <tr>
   <td>8</td>
-  <td>ואז הציפור השחורה הזו שינתה את דמיוני העצוב לחיוך,<br>על ידי ארשת הפנים החמורה והרצינית שלבשה,<br>"אף על פי שהכרבולת שלך גזוזה ומגולחת, אתה," אמרתי, "לבטח לא פחדן,<br>עורב עגום להחריד ועתיק משוטט מהחוף הלילי –<br>תגיד לי מה שם תוארך בחוף ה<sup>2</sup>פלוטוני של הלילה!"<br>אמר העורב "לנצח לא."</td>
+  <td>ואז הציפור השחורה הזו שינתה את דמיוני העצוב לחיוך,<br>על ידי ארשת הפנים החמורה והרצינית שלבשה,<br>"אף על פי שהכרבולת שלך גזוזה ומגולחת, אתה," אמרתי, "לבטח לא פחדן,<br>עורב עגום להחריד ועתיק משוטט מהחוף הלילי –<br>תגיד לי מה שם תוארך בחוף הפלוטוני<sup>2</sup> של הלילה!"<br>אמר העורב "לנצח לא."</td>
   <td>
     <bdo dir="ltr" lang="">Then this ebony bird beguiling my sad fancy into smiling,<br>By the grave and stern decorum of the countenance it wore,<br>“Though thy crest be shorn and shaven, thou,” I said, “art sure no craven,<br>Ghastly grim and ancient Raven wandering from the Nightly shore—<br>Tell me what thy lordly name is on the Night’s Plutonian shore!”<br>Quoth the Raven “Nevermore.”</bdo>
   </td>
