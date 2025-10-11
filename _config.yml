@@ -23,8 +23,8 @@ email: cotact.engbrew@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   פרויקט חינמי שמטרתו לעודד לימוד אנגלית בצורה מקיפה ועצמאית. זאת כחלק
   מפיתוח יכולות למידה איכותיות.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: https://engbrew.com # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "engbrew" # the subpath of your site, e.g. /blog
+url:  # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  liorcn
 
